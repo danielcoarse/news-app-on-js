@@ -1,1 +1,1 @@
-/api/* http://newsapi.org/v2/:splat 200!
+/v2/* http://newsapi.org/v2/:splat 200!
